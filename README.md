@@ -5,3 +5,4 @@ For webhook link change the following line (global WebhookURL := "https://discor
 F1 starts the macro F2 closes the file
 Ahk is needed https://www.autohotkey.com/
 The paths that are used atm are after the game sets the camera when you played the Minigame
+MAX MASTERY NEEDED if you don't have it you need to change the timer in Macro v1
